@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 20px;
+  background: linear-gradient(to left, rgba(23, 131, 62, 0.7), rgba(23, 95, 95, 1));
+}
+
+.logo {
+  margin-right: -150px;
+  height: 60px;	
+}
+
+.mona {
+  margin-right: 1500px;
+  height: 650px;	
+}
+
+.body {
+  text-align: center;
+  padding: 100px;
+  height: 100vh; /* Высота на весь экран */
+  height: 100vh; /* Высота на весь экран */
+  background: linear-gradient(to top, rgba(27, 220, 21, 0.28), rgba(38, 237, 229, 0.13));
+}
+
+
+
+
+.rectangle-button {
+  padding: 10px 30px;
+  background-color: #103939;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.rectangle-button:hover {
+  background-color: #666666;
+}
+
+.rectangle-button2 {
+  padding: 10px 50px;
+  background-color: #103939;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.rectangle-button2:hover {
+  background-color: #666666;
+}
+
+.rectangle-button3 {
+  padding: 10px 50px;
+  background-color: #103939;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.rectangle-button3:hover {
+  background-color: #666666;
+}
+
+.rectangle-button4 {
+  padding: 10px 50px;
+  background-color: #103939;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.rectangle-button4:hover {
+  background-color: #666666;
+}
+
+.download-btn {
+    position: absolute;
+    right: 400px; /* Расстояние от правого края */
+	top: 200px;
+    background-color: #4CAF50; /* Зеленый цвет кнопки */
+    color: white;
+    padding: 20px 90px;
+    border: none;
+	font-size: 50px;
+}
+
+.download-btn:hover {
+  background-color: #666666;
+}
+.texts {
+    text-align: center;
+    margin-top: -480px; /* Расстояние от кнопки до текста */	
+    text-align: center;
+    margin-left: 750px; /* Расстояние от изображения до текста */
+
+
+}
+
+
+
+
+
+
+.black-footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 50px 0;
+  
+}
+
